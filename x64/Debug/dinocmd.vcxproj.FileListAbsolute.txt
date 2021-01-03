@@ -1,0 +1,2 @@
+C:\Users\denis\source\repos\utyansky\dinocmd\x64\Debug\dinocmd.exe
+C:\Users\denis\source\repos\utyansky\dinocmd\x64\Debug\dinocmd.pdb
